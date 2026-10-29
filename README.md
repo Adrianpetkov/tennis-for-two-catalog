@@ -5,6 +5,12 @@ A self-hosted Duo catalog for [Tennis for 2](https://github.com/doan-labs/duo/pu
 Install: open the Duo App Store, paste this URL into the Developer catalog field, and press Get.
 
 ```
+https://raw.githubusercontent.com/Adrianpetkov/tennis-for-two-catalog/main/index.json
+```
+
+Once GitHub Pages is enabled for this repository (Settings > Pages > Deploy from branch `main`, folder `/`), this URL works too:
+
+```
 https://adrianpetkov.github.io/tennis-for-two-catalog/index.json
 ```
 
