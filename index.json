@@ -1,0 +1,19 @@
+{
+  "apps": {
+    "com.adrianpetkov.duo.tennisfortwo": {
+      "name": "Tennis for 2",
+      "lane": "community",
+      "author": "adrianpetkov",
+      "repo": "https://github.com/doan-labs/duo/tree/main/community-apps/tennis-for-two",
+      "permissions": [],
+      "releases": [
+        {
+          "release": "1.0.0+79ec84b7",
+          "sdk": "0.1.0",
+          "bytes": 278459,
+          "sha256": "699d97b65784eeb2a8c6e36f213ef36da49e2681c451860dfd8d866cafcd3c7d"
+        }
+      ]
+    }
+  }
+}
